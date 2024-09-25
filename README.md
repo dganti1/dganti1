@@ -1,4 +1,4 @@
 - 👋 Hola, Soy David Gantiva @dganti1
-- 👀 Nuevo Practicante de DevOps Para el Banco de Bogota
+- 👀 DevOps Para el Banco de Bogota CDT y Cuentas
 - 🌱 Estoy muy emocionado por aprender y colaborar!
-- BdB Cambiando Contigo
+- # BdB Cambiando Contigo
